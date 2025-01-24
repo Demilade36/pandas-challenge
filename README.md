@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-challenge
 Module 4 Pandas assignment submission for Data Analytics Bootcamp - UoT SCS
 # Overview
 This analysis was conducted using two CSV files: **School Data** and **Student Data**.
