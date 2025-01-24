@@ -8,11 +8,11 @@ This analysis was conducted using two CSV files: **School Data** and **Student D
 
 Using Pandas to read both csv files and merge it into a complete dataset, the following analyses were performed and summarized in a DataFrame:
 
-- 1. District-Level Performance
-- 2. School-Level Performance
-- 3. Top and Bottom Schools
-- 4. Grade-Level Performance
-- 5. Performance by Categories
+- District-Level Performance
+- School-Level Performance
+- Top and Bottom Schools
+- Grade-Level Performance
+- Performance by Categories
 
 ---
 # Requirements
