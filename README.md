@@ -8,34 +8,19 @@ This analysis was conducted using two CSV files: **School Data** and **Student D
 
 Using Pandas to read both csv files and merge it into a complete dataset, the following analyses were performed and summarized in a DataFrame:
 
----
-
-### 1. District-Level Performance
-- Assessed the overall passing rates in maths and reading across the district.
-
----
-
-### 2. School-Level Performance
-- Evaluated key metrics for each school, including:
-  - School type, total student population, total budget, and budget per student.
-  - Average maths and reading scores.
-  - Overall passing rates for maths and reading.
+**### 1. District-Level Performance
+**### 2. School-Level Performance
+**### 3. Top and Bottom Schools
+**### 4. Grade-Level Performance
+**### 5. Performance by Categories
 
 ---
+# Requirements
 
-### 3. Top and Bottom Schools
-- Identified the highest-performing and bottom-performing schools based on overall passing rates.
+- Pandas using Jupyter notebook
 
 ---
 
-### 4. Grade-Level Performance
-- Analyzed average maths and reading scores by grade level (9th to 12th).
-
----
-
-### 5. Performance by Categories
-- Examined school performance based on:
-  - **Spending per student**
-  - **School size**
-  - **School type**
----
+# Output Analysis
+ 
+- Analyses were presented in Pandas dataframes which brought about structure and aided understanding.
