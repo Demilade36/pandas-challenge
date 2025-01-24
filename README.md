@@ -12,7 +12,7 @@ Using Pandas to read both csv files and merge it into a complete dataset, the fo
 - School-Level Performance
 - Top and Bottom Schools
 - Grade-Level Performance
-- Performance by Categories
+- Performance by Categories of spending per student, size and school type
 
 ---
 # Requirements
